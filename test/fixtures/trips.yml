@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  begins: MyString
+  ends: MyString
+  airfare_booked: false
+  hotel_booked: false
+  work_calendar_updated: false
+  notes: MyString
+
+two:
+  title: MyString
+  begins: MyString
+  ends: MyString
+  airfare_booked: false
+  hotel_booked: false
+  work_calendar_updated: false
+  notes: MyString
